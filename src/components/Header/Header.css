@@ -1,0 +1,7 @@
+.root {
+  background: var(--primary-light);
+}
+
+.logo-text {
+  font-family: "Zen Tokyo Zoo", cursive;
+}
